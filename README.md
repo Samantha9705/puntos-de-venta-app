@@ -1,4 +1,4 @@
-# 🛍️ Puntos de Venta — Aplicación Fullstack (React + Node.js + MongoDB)
+# 📌 Puntos de Venta — Aplicación
 
 Este repositorio contiene la versión completa del proyecto **Puntos de Venta**, organizada en dos carpetas: `frontend` (React) y `backend` (Node.js + MongoDB). La aplicación permite registrar, visualizar, editar y eliminar puntos de venta con ubicación en un mapa y una gráfica de ventas por zona.
 
@@ -43,5 +43,5 @@ puntos-venta/
 
 ## 🧪 Autora
 
-Proyecto desarrollado por **Samantha García** ✨  
-UX con enfoque en desarrollo web fullstack.
+Proyecto desarrollado por **Samantha García** 
+
